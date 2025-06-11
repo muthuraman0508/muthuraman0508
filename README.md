@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muthu Raman S</h1>
-<h3 align="center">🚀 Hardware Engineer Intern | 🎓 ECE Final Year (2025) | 💡 Embedded & VLSI Design Enthusiast</h3>
+<h3 align="center">🚀 Hardware Engineer Intern | 🎓 ECE Final Year (2025) | 💡 Embedded Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=2025+ECE+Graduate;Hardware+Engineer+Intern;ESP32+%26+Arduino+Developer;VLSI+Design+Explorer;PCB+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
@@ -11,10 +11,10 @@
 
 🎓 I’m a final year **Electronics and Communication Engineering** student at **Sri Eshwar College of Engineering**, graduating in **2025**, with a CGPA of **8.59**.
 
-🔧 Currently interning as a **Hardware Engineer** at **Closerlook Digital Software Services Pvt Ltd**, where I:
+🔧 Currently interning as a **Hardware Design Engineer** at **Closerlook Digital Software Services Pvt Ltd**, where I:
 - Develop embedded hardware systems
 - Work with ESP32, Teensy, and Arduino for IoT projects
-- Design and simulate PCBs using LTSpice and OrCAD
+- Design and simulate PCBs using LTSpice and OrCAD Capture CIS
 
 🧠 Former **Junior Engineer** at **GH Induction India Pvt Ltd**, where I handled:
 - Inverter rectifier circuits
@@ -80,9 +80,9 @@
 
 ### 🤝 Let's Collaborate!
 
-I’m open to:
-- 🔗 Final-year hardware projects or internship roles
-- 🛠️ Collaborations on embedded/VLSI systems
+I’m open to: 
+- 🔗 Final-year hardware projects 
+- 🛠️ Collaborations on embedded systems
 - 💬 Discussions on tech, circuits, or PCB layout design
 
 > _“Engineering is the art of directing the great sources of power in nature for the use and convenience of mankind.”_
