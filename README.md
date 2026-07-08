@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muthu Raman S</h1>
-<h3 align="center">🚀 Hardware Developer | 🎓 ECE Final Year (2025) | 💡 Embedded Design Enthusiast</h3>
+<h3 align="center">🚀 Hardware Design Engineer | 🎓 ECE (2025) | 💡 Embedded Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=2025+ECE+Graduate;Hardware+Engineer+Intern;ESP32+%26+Arduino+Developer;VLSI+Design+Explorer;PCB+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
